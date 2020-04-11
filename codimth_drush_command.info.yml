@@ -1,0 +1,5 @@
+name: Codimth Drush Command
+type: module
+description: Create Custom Drush command
+package: Codimth
+core: 8.x
